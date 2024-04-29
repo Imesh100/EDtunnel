@@ -864,5 +864,5 @@ function createVLESSSub(userID_Path, hostName) {
 }
 
 const cn_hostnames = [
-	'speedtest.ac.lk:7123',
+	'speedtest.net',
 ];
